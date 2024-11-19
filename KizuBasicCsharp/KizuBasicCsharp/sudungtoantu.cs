@@ -8,5 +8,9 @@ namespace KizuBasicCsharp
 {
     internal class sudungtoantu
     {
+        void sudungtoantubaitap()
+        {
+
+        }
     }
 }
