@@ -46,10 +46,15 @@
     <Compile Include="hienthiloichao.cs" />
     <Compile Include="hienthithoigian.cs" />
     <Compile Include="khaibaovasudungbien.cs" />
+    <Compile Include="kiemtranamnhuan.cs" />
+    <Compile Include="LinearEquationResolver.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="sudungtoantu.cs" />
+    <Compile Include="tinhchisokhoicothe.cs" />
+    <Compile Include="tinhsongaytrongthang.cs" />
     <Compile Include="ungdungchuyendoitiente.cs" />
+    <Compile Include="ungdungdocsothanhchu.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
