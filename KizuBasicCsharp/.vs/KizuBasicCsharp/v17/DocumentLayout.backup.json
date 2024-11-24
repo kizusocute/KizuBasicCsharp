@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "E:\\KizuCsharpProject\\KizuBasicCsharp\\KizuBasicCsharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E67A679B-E887-451B-B9AE-A0C81DA70088}|KizuBasicCsharp\\KizuBasicCsharp.csproj|E:\\KizuCsharpProject\\KizuBasicCsharp\\KizuBasicCsharp\\kizubasiccsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E67A679B-E887-451B-B9AE-A0C81DA70088}|KizuBasicCsharp\\KizuBasicCsharp.csproj|solutionrelative:kizubasiccsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E67A679B-E887-451B-B9AE-A0C81DA70088}|KizuBasicCsharp\\KizuBasicCsharp.csproj|e:\\kizucsharpproject\\kizubasiccsharp\\kizubasiccsharp\\kizubasiccsharp\\tinhsongaytrongthang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E67A679B-E887-451B-B9AE-A0C81DA70088}|KizuBasicCsharp\\KizuBasicCsharp.csproj|solutionrelative:kizubasiccsharp\\tinhsongaytrongthang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E67A679B-E887-451B-B9AE-A0C81DA70088}|KizuBasicCsharp\\KizuBasicCsharp.csproj|e:\\kizucsharpproject\\kizubasiccsharp\\kizubasiccsharp\\kizubasiccsharp\\ungdungdocsothanhchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E67A679B-E887-451B-B9AE-A0C81DA70088}|KizuBasicCsharp\\KizuBasicCsharp.csproj|solutionrelative:kizubasiccsharp\\ungdungdocsothanhchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E67A679B-E887-451B-B9AE-A0C81DA70088}|KizuBasicCsharp\\KizuBasicCsharp.csproj|e:\\kizucsharpproject\\kizubasiccsharp\\kizubasiccsharp\\kizubasiccsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E67A679B-E887-451B-B9AE-A0C81DA70088}|KizuBasicCsharp\\KizuBasicCsharp.csproj|solutionrelative:kizubasiccsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,29 +18,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ungdungdocsothanhchu.cs",
-              "DocumentMoniker": "E:\\KizuCsharpProject\\KizuBasicCsharp\\KizuBasicCsharp\\KizuBasicCsharp\\ungdungdocsothanhchu.cs",
-              "RelativeDocumentMoniker": "KizuBasicCsharp\\ungdungdocsothanhchu.cs",
-              "ToolTip": "E:\\KizuCsharpProject\\KizuBasicCsharp\\KizuBasicCsharp\\KizuBasicCsharp\\ungdungdocsothanhchu.cs*",
-              "RelativeToolTip": "KizuBasicCsharp\\ungdungdocsothanhchu.cs*",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "tinhsongaytrongthang.cs",
+              "DocumentMoniker": "E:\\KizuCsharpProject\\KizuBasicCsharp\\KizuBasicCsharp\\KizuBasicCsharp\\tinhsongaytrongthang.cs",
+              "RelativeDocumentMoniker": "KizuBasicCsharp\\tinhsongaytrongthang.cs",
+              "ToolTip": "E:\\KizuCsharpProject\\KizuBasicCsharp\\KizuBasicCsharp\\KizuBasicCsharp\\tinhsongaytrongthang.cs*",
+              "RelativeToolTip": "KizuBasicCsharp\\tinhsongaytrongthang.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABwAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T08:21:45.256Z",
+              "WhenOpened": "2024-11-21T13:39:26.345Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\KizuCsharpProject\\KizuBasicCsharp\\KizuBasicCsharp\\KizuBasicCsharp\\Program.cs",
               "RelativeDocumentMoniker": "KizuBasicCsharp\\Program.cs",
-              "ToolTip": "E:\\KizuCsharpProject\\KizuBasicCsharp\\KizuBasicCsharp\\KizuBasicCsharp\\Program.cs*",
-              "RelativeToolTip": "KizuBasicCsharp\\Program.cs*",
+              "ToolTip": "E:\\KizuCsharpProject\\KizuBasicCsharp\\KizuBasicCsharp\\KizuBasicCsharp\\Program.cs",
+              "RelativeToolTip": "KizuBasicCsharp\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-19T13:04:04.802Z",

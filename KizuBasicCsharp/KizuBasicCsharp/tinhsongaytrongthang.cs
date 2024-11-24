@@ -10,7 +10,7 @@ namespace KizuBasicCsharp
     {
         public static void run()
         {
-            Console.WriteLine("Which month that you want to count days? ");
+            Console.WriteLine("Ban muon kiem tra thang nao? ");
             int month = Int32.Parse(Console.ReadLine());
             string daysInMonth;
             switch (month)
@@ -40,11 +40,11 @@ namespace KizuBasicCsharp
 
             if (daysInMonth != "")
             {
-                Console.WriteLine("The month {0} has {1} days!", month, daysInMonth);
+                Console.WriteLine("Thang {0} co {1} ngay!", month, daysInMonth);
             }
             else
             {
-                Console.WriteLine("Invalid input!");
+                Console.WriteLine("Dau vao loi!");
             }
             Console.ReadLine();
         }

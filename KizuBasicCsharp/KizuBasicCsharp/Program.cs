@@ -11,7 +11,7 @@ namespace KizuBasicCsharp
         static void Main(string[] args)
         {
             Console.OutputEncoding = Encoding.UTF8;
-            ungdungdocsothanhchu.run();
+            tinhsongaytrongthang.run();
         }
     }
 }
