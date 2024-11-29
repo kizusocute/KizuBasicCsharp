@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "E:\\KizuCsharpProject\\KizuBasicCsharp\\KizuBasicCsharp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E67A679B-E887-451B-B9AE-A0C81DA70088}|KizuBasicCsharp\\KizuBasicCsharp.csproj|e:\\kizucsharpproject\\kizubasiccsharp\\kizubasiccsharp\\kizubasiccsharp\\vietphuongthucxoaphantukhoimang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E67A679B-E887-451B-B9AE-A0C81DA70088}|KizuBasicCsharp\\KizuBasicCsharp.csproj|solutionrelative:kizubasiccsharp\\vietphuongthucxoaphantukhoimang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E67A679B-E887-451B-B9AE-A0C81DA70088}|KizuBasicCsharp\\KizuBasicCsharp.csproj|e:\\kizucsharpproject\\kizubasiccsharp\\kizubasiccsharp\\kizubasiccsharp\\tinhsongaytrongthang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E67A679B-E887-451B-B9AE-A0C81DA70088}|KizuBasicCsharp\\KizuBasicCsharp.csproj|solutionrelative:kizubasiccsharp\\tinhsongaytrongthang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E67A679B-E887-451B-B9AE-A0C81DA70088}|KizuBasicCsharp\\KizuBasicCsharp.csproj|e:\\kizucsharpproject\\kizubasiccsharp\\kizubasiccsharp\\kizubasiccsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E67A679B-E887-451B-B9AE-A0C81DA70088}|KizuBasicCsharp\\KizuBasicCsharp.csproj|E:\\KizuCsharpProject\\KizuBasicCsharp\\KizuBasicCsharp\\kizubasiccsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E67A679B-E887-451B-B9AE-A0C81DA70088}|KizuBasicCsharp\\KizuBasicCsharp.csproj|solutionrelative:kizubasiccsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -23,19 +27,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "vietphuongthucxoaphantukhoimang.cs",
+              "DocumentMoniker": "E:\\KizuCsharpProject\\KizuBasicCsharp\\KizuBasicCsharp\\KizuBasicCsharp\\vietphuongthucxoaphantukhoimang.cs",
+              "RelativeDocumentMoniker": "KizuBasicCsharp\\vietphuongthucxoaphantukhoimang.cs",
+              "ToolTip": "E:\\KizuCsharpProject\\KizuBasicCsharp\\KizuBasicCsharp\\KizuBasicCsharp\\vietphuongthucxoaphantukhoimang.cs*",
+              "RelativeToolTip": "KizuBasicCsharp\\vietphuongthucxoaphantukhoimang.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:23:51.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "tinhsongaytrongthang.cs",
               "DocumentMoniker": "E:\\KizuCsharpProject\\KizuBasicCsharp\\KizuBasicCsharp\\KizuBasicCsharp\\tinhsongaytrongthang.cs",
               "RelativeDocumentMoniker": "KizuBasicCsharp\\tinhsongaytrongthang.cs",
-              "ToolTip": "E:\\KizuCsharpProject\\KizuBasicCsharp\\KizuBasicCsharp\\KizuBasicCsharp\\tinhsongaytrongthang.cs*",
-              "RelativeToolTip": "KizuBasicCsharp\\tinhsongaytrongthang.cs*",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAABwAAAAaAAAAAAAAAA==",
+              "ToolTip": "E:\\KizuCsharpProject\\KizuBasicCsharp\\KizuBasicCsharp\\KizuBasicCsharp\\tinhsongaytrongthang.cs",
+              "RelativeToolTip": "KizuBasicCsharp\\tinhsongaytrongthang.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABsAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-21T13:39:26.345Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\KizuCsharpProject\\KizuBasicCsharp\\KizuBasicCsharp\\KizuBasicCsharp\\Program.cs",
               "RelativeDocumentMoniker": "KizuBasicCsharp\\Program.cs",
@@ -43,8 +60,7 @@
               "RelativeToolTip": "KizuBasicCsharp\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T13:04:04.802Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T13:04:04.802Z"
             }
           ]
         }
